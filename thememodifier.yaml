@@ -1,0 +1,29 @@
+Constants:
+  - Miscellaneous
+  - DE_ShowAgeRating: Display age rating icons
+  - DE_ShowPluginsExtrasItem: Display plugin extra information in grid view item
+  - DE_ShowAgeRatingGridViewItemTemplate: Display age rating icons in grid view item template
+  - Completation status
+  - DE_ShowCompletationStatus: Display the game completation status
+  - DE_ShowCompletationStatusGridViewItemTemplate: Show the game completation status in grid item
+  - DE_NotPlayedStatus: Status Not Played
+  - DE_PlayingStatus: Status Playing
+  - DE_PlayedStatus: Status Played
+  - DE_CompletedStatus: Status Played
+  - DE_BeatenStatus: Status Beaten
+  - DE_AbandonedStatus: Status Abandoned
+  - DE_OnHoldStatus: Status OnHold
+  - DE_PlanToPlayStatus: Status PlanToPlay
+  - Details View
+  - DE_NoteInTab: Display note in tab
+  - DE_OneLine: Display list game with one line
+  - DE_LimitBackgroundHeight: Limit background height
+  - DE_BackgroundHeight(100,1000): Background height
+  - GameActivity
+  - GA_ShowAvgFps: Display the average FPS in game details view
+  - SuccessStory
+  - SS_ShowProgressBar: Display a progress bar in the tab
+  - LibraryManagement
+  - LM_ShowFeaturesLabel: Display the features label in FeaturesIconsList
+  - CheckLocalizations
+  - CL_ShowLocalizationsLabel: Display the localizations label in FeaturesIconsList
