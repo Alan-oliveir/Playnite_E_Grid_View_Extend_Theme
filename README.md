@@ -1,19 +1,6 @@
 # Playnite Enhaced Grid View Extend Theme
 
-# Enhaced Grid View Extend
-Clean theme with modern design for [Playnite](https://github.com/JosefNemec/Playnite) Desktop Mode.
-
-## Tips and donations
-All the work I do for Playnite extensions is and will always be free!
-
-I make extensions and themes to learn, have fun and to give to the community so donations are not required or requested. If you find the work being done useful and you are and in a position that allows it, you can consider making a tip to support the different Playnite related projects I work on, every little bit helps.
-
-<a href='https://ko-fi.com/darklinkpower' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi1.png?v=2' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-
-## Support
-
-- If you found a bug or want to request a feature, please open a new issue in the [Issues Tracker](https://github.com/darklinkpower/Harmony/issues)
-- For general support, please contact me in the channel dedicated to themes support in the [Playnite Discord](https://discord.com/channels/365863063296933888/808419347105447957)
+Modern desktop theme design for [Playnite](https://github.com/JosefNemec/Playnite) focused in grid view with extensions integrations.
 
 ## Theme goals
 - Use a simple pallete and have better contrast and hierarchies using color without the need of borders.
@@ -40,11 +27,9 @@ Option C: Download from the Addons browser in Playnite.
 - Game statistics: via custom integration of the [GameActivity](https://playnite.link/addons.html#playnite-gameactivity-plugin) extension.
 - Screenshots: via custom integration of the [ScreenshotsVisualizer](https://playnite.link/addons.html#playnite-screenshotsvisualizer-plugin) extension.
 - Duplicate copies handling: via custom integration of the [DuplicateHider](https://playnite.link/addons.html#felixkmh_DuplicateHider_Plugin) extension.
-- Logos: download of logos for use in the theme via [Extra Metadata Loader](https://playnite.link/addons.html#ExtraMetadataLoader_705fdbca-e1fc-4004-b839-1d040b8b4429) extension.
 - Videos: download of trailer and microtrailer videos for use in the theme via [Extra Metadata Loader](https://playnite.link/addons.html#ExtraMetadataLoader_705fdbca-e1fc-4004-b839-1d040b8b4429) extension.
 - Game news: via custom integration of the [News Viewer](https://playnite.link/addons.html#NewsViewer_15e03ffe-90f6-4e8e-bd4d-94514777481d) extension.
-- Game reviews: via custom integration of the [Review Viewer](https://playnite.link/addons.html#playnite-screenshotsvisualizer-plugin) extension.
-- Banners and other functionality: via custom integration of the [ThemeExtras](https://playnite.link/addons.html#felixkmh_Extras_Plugin) extension.
+- Star Ratings and other functionality: via custom integration of the [ThemeExtras](https://playnite.link/addons.html#felixkmh_Extras_Plugin) extension.
   
 ## Screenshots
 ![Screenshot](https://raw.githubusercontent.com/darklinkpower/Harmony/master/screenshots/screenshot_01.webp)
