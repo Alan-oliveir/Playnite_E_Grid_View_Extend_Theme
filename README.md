@@ -41,14 +41,14 @@ Option C: Download from the Addons browser in Playnite.
 ![Screenshot](https://github.com/Alan-oliveir/Playnite_E_Grid_View_Extend_Theme/blob/main/Screenshots/screenshot_4.jpg)
 ![Screenshot](https://github.com/Alan-oliveir/Playnite_E_Grid_View_Extend_Theme/blob/main/Screenshots/screenshot_7.jpg)
 
-# Theme Modifier Personalization
+## Theme Modifier Personalization
 
 - Theme Modifier: for theme equal to the screenshots use [Custom Theme Modifier](https://github.com/Alan-oliveir/Playnite_E_Grid_View_Extend_Theme/blob/main/custom_theme_config.json)
 
-# Playnite configuration
+## Playnite configuration
 
 - Personalization: use the settings [Playnite Configuration](https://github.com/Alan-oliveir/Playnite_E_Grid_View_Extend_Theme/tree/main/Screenshots/Config)
 
-# Author
+## Author
 
 - Name: Alan de Oliveira Gonçalves - [Linkedin](www.linkedin.com/in/alan-de-oliveira-gonçalves-207549258)
