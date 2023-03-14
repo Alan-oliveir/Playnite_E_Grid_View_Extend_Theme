@@ -1,7 +1,6 @@
-# Playnite_E_Grid_View_Extend_Theme
- 
-![DownloadCount](https://img.shields.io/github/downloads/darklinkpower/Harmony/total.svg)
-# Harmony
+# Playnite Enhaced Grid View Extend Theme
+
+# Enhaced Grid View Extend
 Clean theme with modern design for [Playnite](https://github.com/JosefNemec/Playnite) Desktop Mode.
 
 ## Tips and donations
