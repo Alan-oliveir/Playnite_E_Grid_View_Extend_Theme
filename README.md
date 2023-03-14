@@ -31,11 +31,20 @@ Option C: Download from the Addons browser in Playnite.
 - Game news: via custom integration of the [News Viewer](https://playnite.link/addons.html#NewsViewer_15e03ffe-90f6-4e8e-bd4d-94514777481d) extension.
 - Star Ratings and other functionality: via custom integration of the [ThemeExtras](https://playnite.link/addons.html#felixkmh_Extras_Plugin) extension.
   
-## Screenshots
-![Screenshot](https://raw.githubusercontent.com/darklinkpower/Harmony/master/screenshots/screenshot_01.webp)
+## Screenshots Grid View
+![Screenshot](https://github.com/Alan-oliveir/Playnite_E_Grid_View_Extend_Theme/blob/main/Screenshots/screenshot_1.jpg)
 
-![Screenshot](https://raw.githubusercontent.com/darklinkpower/Harmony/master/screenshots/screenshot_02.webp)
+![Screenshot](https://github.com/Alan-oliveir/Playnite_E_Grid_View_Extend_Theme/blob/main/Screenshots/screenshot_2.jpg)
 
-![Screenshot](https://raw.githubusercontent.com/darklinkpower/Harmony/master/screenshots/screenshot_03.webp)
+![Screenshot](https://github.com/Alan-oliveir/Playnite_E_Grid_View_Extend_Theme/blob/main/Screenshots/screenshot_3.jpg)
 
-![Screenshot](https://raw.githubusercontent.com/darklinkpower/Harmony/master/screenshots/screenshot_04.webp)
+![Screenshot](https://github.com/Alan-oliveir/Playnite_E_Grid_View_Extend_Theme/blob/main/Screenshots/screenshot_6.jpg)
+
+## Screenshots Details View
+![Screenshot](https://github.com/Alan-oliveir/Playnite_E_Grid_View_Extend_Theme/blob/main/Screenshots/screenshot_4.jpg)
+
+![Screenshot](https://github.com/Alan-oliveir/Playnite_E_Grid_View_Extend_Theme/blob/main/Screenshots/screenshot_5.jpg)
+
+![Screenshot](https://github.com/Alan-oliveir/Playnite_E_Grid_View_Extend_Theme/blob/main/Screenshots/screenshot_7.jpg)
+
+
