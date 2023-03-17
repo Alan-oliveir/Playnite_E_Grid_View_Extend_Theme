@@ -13,8 +13,8 @@ Modern desktop theme design for [Playnite](https://github.com/JosefNemec/Playnit
 
 ## Installation
 
-Option A: Download the latest packaged `pthm` theme file from the [Releases page](https://github.com/Alan-oliveir/Playnite_E_Grid_View_Extend_Theme/releases) and open it.
-Option B: Download from the Addons browser in Playnite.
+- Option A: Download the latest packaged `pthm` theme file from the [Releases page](https://github.com/Alan-oliveir/Playnite_E_Grid_View_Extend_Theme/releases) and open it.
+- Option B: Download from the Addons browser in Playnite.
 
 ## Functionalities and features
 
