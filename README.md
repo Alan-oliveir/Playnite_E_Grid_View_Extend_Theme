@@ -50,4 +50,4 @@ Modern desktop theme design for [Playnite](https://github.com/JosefNemec/Playnit
 
 ## Author
 
-- Name: Alan de Oliveira Gonçalves - [Linkedin](www.linkedin.com/in/alan-de-oliveira-gonçalves-207549258)
+- Name: Alan de Oliveira Gonçalves - Linkedin: www.linkedin.com/in/alan-de-oliveira-gonçalves-207549258
