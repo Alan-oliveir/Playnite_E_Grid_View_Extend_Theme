@@ -47,7 +47,7 @@ Modern desktop theme design for [Playnite](https://github.com/JosefNemec/Playnit
 ## Playnite configuration
 
 - Personalization: use the settings [Playnite Configuration](https://github.com/Alan-oliveir/Playnite_E_Grid_View_Extend_Theme/tree/main/Screenshots/Config)
+___
 
-## Author
-
-- Name: Alan de Oliveira Gonçalves - Linkedin: www.linkedin.com/in/alan-de-oliveira-gonçalves-207549258
+### Author: Alan de Oliveira Gonçalves
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alan-ogoncalves/) 
