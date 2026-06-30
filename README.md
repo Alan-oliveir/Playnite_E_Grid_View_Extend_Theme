@@ -47,6 +47,15 @@ Modern desktop theme design for [Playnite](https://github.com/JosefNemec/Playnit
 ## Playnite configuration
 
 - Personalization: use the settings [Playnite Configuration](https://github.com/Alan-oliveir/Playnite_E_Grid_View_Extend_Theme/tree/main/Screenshots/Config)
+
+___
+
+## Tips and donations
+I create this theme for the love of it—always free for the community.
+While donations aren't expected, they're super appreciated! If you've found this theme helpful and want to support its development, every bit counts and keeps the project going. Also consider supporting [Playnite](https://www.patreon.com/playnite), the platform this theme is built for, and the developers of the extensions this theme integrates with.
+
+[![Sponsor](https://img.shields.io/badge/Sponsor-%E2%9D%A4-pink?style=for-the-badge&logo=github)](https://github.com/sponsors/Alan-oliveir)  
+
 ___
 
 ### Author: Alan de Oliveira Gonçalves
