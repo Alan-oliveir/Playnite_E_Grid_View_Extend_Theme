@@ -54,7 +54,8 @@ ___
 I create this theme for the love of it—always free for the community.
 While donations aren't expected, they're super appreciated! If you've found this theme helpful and want to support its development, every bit counts and keeps the project going. Also consider supporting [Playnite](https://www.patreon.com/playnite), the platform this theme is built for, and the developers of the extensions this theme integrates with.
 
-[![Sponsor](https://img.shields.io/badge/Sponsor-%E2%9D%A4-pink?style=for-the-badge&logo=github)](https://github.com/sponsors/Alan-oliveir)  
+[![GitHub Sponsors](https://img.shields.io/badge/Sponsor-GitHub-ea4aaa?style=for-the-badge&logo=github)](https://github.com/sponsors/Alan-oliveir)
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-Donate-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/alandeogoncalves)
 
 ___
 
